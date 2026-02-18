@@ -1,0 +1,13 @@
+# build
+*.o
+*.out
+*.exe
+build/
+cmake-build-*/
+compile_commands.json
+
+# misc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
